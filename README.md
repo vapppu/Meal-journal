@@ -17,13 +17,13 @@ Meal Journal provides two ways of inserting meal information:
 It is possible to add meal information for the current date in the command line by running the following in the root of the project directory:
 
 ```
-python3 project.py [meal] [food1 food2 food3...]
+python3 meals.py [meal] [food1 food2 food3...]
 ```
 
 For example:
 
 ```
-python3 project.py lunch potatoes salmon broccoli
+python3 meals.py lunch potatoes salmon broccoli
 ```
 
 This would add potatoes, salmon and broccoli for your meal journal for the ongoing day.
