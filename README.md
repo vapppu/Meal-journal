@@ -1,13 +1,12 @@
 # MEAL JOURNAL
 
-#### Video Demo:  <https://www.youtube.com/watch?v=KUKaFWudExE>
-#### Description:
+## [Video Demo](https://www.youtube.com/watch?v=KUKaFWudExE>)
 
 ## Overview
 
 Meal journal is a command-line tool for tracking dailymeals. It has two functionalities: adding information about meals and printing out a text file including the entire meal journal.
 
-Meal Journal is Veera Hiltunen's final project for CS50's Introduction to Programming with Python course.
+Meal Journal is Veera Hiltunen's final project for [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) course.
 
 ## Inserting meals
 
@@ -52,4 +51,3 @@ In the future, the program could be improved by adding the following features, a
 - printing the journal entries inside a specified time frame
 - editing and deleting journal entries
 - letting the user modify the appearance of the printed journal
-# Meal-journal
